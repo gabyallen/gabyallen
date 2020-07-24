@@ -3,9 +3,9 @@
 
 
 <!--
-**gabyallen/gabyallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabyallen)](https://github.com/anuraghazra/github-readme-stats)
+** gabyallen / gabyallen **是一个_special_✨存储库，因为其`README.md`（此文件）出现在您的GitHub个人资料中。
+先隐藏显示的主题模式
+[！[Anurag的github统计信息]（https://github-readme-stats.vercel.app/api?username=gabyallen）]（https://github.com/anuraghazra/github-readme-stats）
 
 Here are some ideas to get you started:
 
